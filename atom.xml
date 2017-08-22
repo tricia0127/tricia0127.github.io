@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SERENDIPITY</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http:/"/>
+  <updated>2017-07-13T10:12:18.000Z</updated>
+  <id>http:/</id>
+  
+  <author>
+    <name>Tricia</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>科技节手机UI主题设计大赛</title>
+    <link href="http:/2017/07/13/%E7%A7%91%E6%8A%80%E8%8A%82%E6%89%8B%E6%9C%BAui%E4%B8%BB%E9%A2%98%E8%AE%BE%E8%AE%A1%E5%A4%A7%E8%B5%9B/"/>
+    <id>http:/2017/07/13/科技节手机ui主题设计大赛/</id>
+    <published>2017-07-13T08:58:52.000Z</published>
+    <updated>2017-07-13T10:12:18.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>这个比赛其实是半年前的了，因为最近在休整博客，准备把一些设计和摄影的作品也都慢慢放进来，所以翻了些陈年旧事。</p>
+<p>当时学校科技节，有不少比赛。大一的时候其实也报了这个比赛的名，因为懒，后来并没有提交作品（逃），大二为了水点自主化学分，感觉这个比赛比较稳，于是花了一周的时间做这套UI。（捂脸<br>比赛毕竟还是比赛，评委还是那些老师，那肯定不能按套路来……所以果断地避开了扁平和渐变之类的设计潮流，也规避了极简，选择了偏拟物的中国风，颜色也选的都是饱和度比较低的。</p>
+<p>icon细节上考虑的比较多（虽然实际使用上并不容易注意到），只是强行给自己加戏…||| 所以一定要讲解一下……</p>
+<p><img src="http://ojv7wbfak.bkt.clouddn.com/icons.png" alt=""></p>
+<p><br></p>
+<blockquote>
+<p>便签：毛笔。</p>
+<p>备份恢复：云备份。</p>
+<p>拨号：中间是一块黑色的鹅卵石，撞击在沙粒中产生了圆形的波纹，取自含义“一沙一世界“。类比声波。<br>浏览器：古人望月，一览苍穹。</p>
+<p>联系人：以汉服表示。</p>
+<p>日历：日晷，表示日期时间的变化。</p>
+<p>视频：一盏俯视的茶水，水面上的三片茶叶拼成了视频播放的三角形的标志。</p>
+<p>文件管理：信封，加上了古代宣纸的质感。</p>
+<p>天气：以祥云的纹理，勾勒出水滴的轮廓，用画笔画出水滴的光泽。</p>
+<p>信息：木质底纹，信纸上写有“红豆生南国，春来发几枝。“因为相思，所以寄信传情。</p>
+<p>图库(为上图的’相册’)：一朵莲花。</p>
+<p>主题风格：以竹子的“竹“取谐音主题的”主“，竹子高风亮节的品格也正好对应了主题风格中的”风“。</p>
+<p>音乐：一把琵琶的琴头，。</p>
+<p>相机：用砚台磨墨的圆形区域表示相机的镜头。</p>
+<p>游戏：围棋。</p>
+<p>设置：规避大众普遍的设计如齿轮、榔头等，以古代木质建筑的常用结构——卯榫 表示。</p>
+</blockquote>
+<p><img src="http://ojv7wbfak.bkt.clouddn.com/%E9%94%81%E5%B1%8F.jpg" alt=""></p>
+<p><img src="http://ojv7wbfak.bkt.clouddn.com/%E5%A4%A9%E6%B0%94%E5%8C%BA%E5%9F%9F.jpg" alt=""></p>
+<p><img src="http://ojv7wbfak.bkt.clouddn.com/%E9%9F%B3%E4%B9%90%E5%8C%BA%E5%9F%9F.jpg" alt=""></p>
+<p><img src="http://ojv7wbfak.bkt.clouddn.com/%E7%95%8C%E9%9D%A2%E5%9B%9B1.jpg" alt=""></p>
+<blockquote>
+<p>界面二——天气widget区域，天气widget是一个平头案，平头案是一种独具特色的汉族传统的明式家具。</p>
+<p>界面三——音乐widget，音乐widget是一副画卷。</p>
+</blockquote>
+<p>最后提交的作品改了锁屏壁纸，虽然个人还是更喜欢纯色的宣纸质感背景Q w Q</p>
+<p><img src="http://ojv7wbfak.bkt.clouddn.com/%E8%90%BD%E6%A2%85%E7%AC%BA%20template.jpg" alt=""></p>
+<p>至于为什么给这套作品取名为《落梅笺》，一是因为要体现它的古风，二是因为壁纸上有一枝梅花，于是取自于银临的一首歌名。<br><br><br><br></p>
+<blockquote>
+<p>昨夜桃花开 几抹浓淡春色里外</p>
+<p>唯恐着尘埃 执手相看流连还来</p>
+<p>忽的蝉尽秋已到 花飞梦散对空梢</p>
+<p>风月如雪泥鸿爪 蝇头细字终潦草</p>
+</blockquote>
+<div align="center"><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=28188433&auto=1&height=66"></iframe></div>
+
+
+
+
+
+
+
+
+
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;这个比赛其实是半年前的了，因为最近在休整博客，准备把一些设计和摄影的作品也都慢慢放进来，所以翻了些陈年旧事。&lt;/p&gt;
+&lt;p&gt;当时学校科技节，有不少比赛。大一的时候其实也报了这个比赛的名，因为懒，后来并没有提交作品（逃），大二为了水点自主化学分，感觉这个比赛比较稳，于是花了一
+    
+    </summary>
+    
+      <category term="Graphic Design" scheme="http:/categories/graphic-design/"/>
+    
+    
+      <category term="Graphic Design" scheme="http:/tags/graphic-design/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C语言实现三转轮密码机加密</title>
+    <link href="http:/2017/03/18/c%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0%E4%B8%89%E8%BD%AC%E8%BD%AE%E5%AF%86%E7%A0%81%E6%9C%BA%E5%8A%A0%E5%AF%86/"/>
+    <id>http:/2017/03/18/c语言实现三转轮密码机加密/</id>
+    <published>2017-03-18T04:16:51.000Z</published>
+    <updated>2017-07-13T08:49:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>博客没有死，只是一直想不到可以写的东西，如果再不更新，生活也许只剩眼前的雾霾了。所以打算写些学习和生活的二三事，从今天开始吧。<br><br><br><img src="http://ojv7wbfak.bkt.clouddn.com/QQ%E5%9B%BE%E7%89%8720170317211036.jpg" alt=""><br><br><br>三转轮密码机的工作原理如图，简单补充一下：</p>
+<blockquote>
+<p>快轮子转动一圈（26个位置），中轮子转动一个位置；中轮子转动一圈（26个位置），慢轮子转动一个位置。在加密或解密26×26×26个字母以后，所有转轮都恢复到初始状态（如图3-1(a)）。由此，一个有3个转轮的转轮密码机是一个密钥周期为26×26×26 = 17 576的多表代换密码机械装置。</p>
+</blockquote>
+<p>原理其实和<a href="https://en.wikipedia.org/wiki/Enigma_machine" target="_blank">Enigma machine</a>类似，在二战时期被运用过。<br><br><br>盯着图看了两三天，直到着手写的时候也依然没有思路，那就先照着图上的索引一步一步加密看看吧。于是对照着初始状态以及转轮转动规则采用数组写，写着写着写出了一点思路：<br><br></p>
+<ol>
+<li>先将26个字母改为1~26的数字表示，使明文字母对应慢轮子左列的26个数字；<br><br></li>
+<li>依次搜索慢轮子右列直到找到与明文相同的数字，记录数字所在行数，进入同行的中轮子左列；<br><br></li>
+<li>方法同（2），转入快轮子；<br><br></li>
+<li>依次搜索快轮子右列直到搜索到与快轮子左列相同的数字，输出数字所在行数，将数字转换为字母，密文输出；<br><br></li>
+<li>快轮转动一个位置；<br><br></li>
+<li>判断加密次数是否为26的倍数，若满足，则中轮子转动一个位置；<br><br></li>
+<li>判断加密次数是否为26×26的倍数，若满足，则慢轮子转动一个位置；<br><br></li>
+<li>一个字母加密结束。<br><br></li>
+</ol>
+<p>以这种方式解密也是比较容易的，只要从密文输出的地方按照线路索引逆向走回去就可输出明文。<br><br><br>在加密时，本想偷懒跳过空格以及标点的处理，但这样会造成密文包含原始空格以及标点，于是在文件处理上，我先删除了空格和标点，再进行读取文件加密。<br><br><br>以下附上核心代码：<br><figure class="highlight c"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div><div class="line">60</div><div class="line">61</div><div class="line">62</div><div class="line">63</div><div class="line">64</div><div class="line">65</div><div class="line">66</div><div class="line">67</div><div class="line">68</div><div class="line">69</div><div class="line">70</div><div class="line">71</div><div class="line">72</div><div class="line">73</div><div class="line">74</div><div class="line">75</div><div class="line">76</div><div class="line">77</div><div class="line">78</div><div class="line">79</div><div class="line">80</div><div class="line">81</div><div class="line">82</div><div class="line">83</div><div class="line">84</div><div class="line">85</div><div class="line">86</div><div class="line">87</div><div class="line">88</div><div class="line">89</div><div class="line">90</div><div class="line">91</div><div class="line">92</div><div class="line">93</div><div class="line">94</div><div class="line">95</div><div class="line">96</div><div class="line">97</div><div class="line">98</div><div class="line">99</div><div class="line">100</div><div class="line">101</div><div class="line">102</div><div class="line">103</div><div class="line">104</div><div class="line">105</div><div class="line">106</div><div class="line">107</div><div class="line">108</div><div class="line">109</div><div class="line">110</div><div class="line">111</div><div class="line">112</div><div class="line">113</div><div class="line">114</div><div class="line">115</div><div class="line">116</div><div class="line">117</div><div class="line">118</div><div class="line">119</div><div class="line">120</div><div class="line">121</div><div class="line">122</div><div class="line">123</div><div class="line">124</div><div class="line">125</div><div class="line">126</div><div class="line">127</div><div class="line">128</div><div class="line">129</div><div class="line">130</div><div class="line">131</div><div class="line">132</div><div class="line">133</div><div class="line">134</div><div class="line">135</div><div class="line">136</div><div class="line">137</div><div class="line">138</div><div class="line">139</div><div class="line">140</div><div class="line">141</div><div class="line">142</div><div class="line">143</div><div class="line">144</div><div class="line">145</div><div class="line">146</div><div class="line">147</div><div class="line">148</div><div class="line">149</div><div class="line">150</div><div class="line">151</div><div class="line">152</div><div class="line">153</div><div class="line">154</div><div class="line">155</div></pre></td><td class="code"><pre><div class="line"><span class="comment">//三转轮密码机加密函数</span></div><div class="line"><span class="function"><span class="keyword">void</span> <span class="title">EncryptFile</span> <span class="params">(<span class="keyword">char</span> buffer[], <span class="keyword">int</span> FileSize)</span> </span></div><div class="line"><span class="function"></span>&#123;</div><div class="line">    <span class="keyword">int</span> i, j, m;</div><div class="line">    <span class="keyword">int</span> flag = <span class="number">-1</span>, num = <span class="number">0</span>;</div><div class="line">    <span class="keyword">int</span> sRotor[<span class="number">26</span>][<span class="number">2</span>];</div><div class="line">    <span class="keyword">int</span> mRotor[<span class="number">26</span>][<span class="number">2</span>];</div><div class="line">    <span class="keyword">int</span> fRotor[<span class="number">26</span>][<span class="number">2</span>];</div><div class="line">    <span class="keyword">int</span> arr[<span class="number">1</span>][<span class="number">2</span>];</div><div class="line"></div><div class="line">    sRotor[<span class="number">0</span>][<span class="number">0</span>] = <span class="number">24</span>; sRotor[<span class="number">0</span>][<span class="number">1</span>] = <span class="number">21</span>;</div><div class="line">    sRotor[<span class="number">1</span>][<span class="number">0</span>] = <span class="number">25</span>; sRotor[<span class="number">1</span>][<span class="number">1</span>] = <span class="number">3</span>;</div><div class="line">    <span class="comment">//此段为冗长的慢中快轮子sRotor\mRotor\fRotor数据存储,不一一列写</span></div><div class="line">    fRotor[<span class="number">24</span>][<span class="number">0</span>] = <span class="number">25</span>; fRotor[<span class="number">24</span>][<span class="number">1</span>] = <span class="number">1</span>;</div><div class="line">    fRotor[<span class="number">25</span>][<span class="number">0</span>] = <span class="number">26</span>; fRotor[<span class="number">25</span>][<span class="number">1</span>] = <span class="number">14</span>;</div><div class="line"></div><div class="line">    <span class="keyword">for</span> (i = <span class="number">0</span>; i &lt; FileSize; i++) &#123;     <span class="comment">//将文档所有A~Z的字母转为1~26的数字表示</span></div><div class="line">        <span class="keyword">if</span> (buffer[i] &gt;= <span class="string">'A'</span> &amp;&amp; buffer[i] &lt;= <span class="string">'Z'</span>) &#123;</div><div class="line">            buffer[i] -= <span class="number">64</span>;</div><div class="line">        &#125;</div><div class="line">        <span class="keyword">else</span> <span class="keyword">if</span> (buffer[i] &gt;= <span class="string">'a'</span> &amp;&amp; buffer[i] &lt;= <span class="string">'z'</span>) &#123;</div><div class="line">            buffer[i] -= <span class="number">96</span>;</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="keyword">for</span> (i = <span class="number">0</span>; i &lt; FileSize; i++) &#123;     <span class="comment">//明密文转换</span></div><div class="line">        num++;     <span class="comment">//记录加密次数</span></div><div class="line">        <span class="keyword">if</span> (buffer[i] &gt;= <span class="number">1</span> &amp;&amp; buffer[i] &lt;= <span class="number">26</span>) &#123;     </div><div class="line">            m = sRotor[buffer[i] - <span class="number">1</span>][<span class="number">0</span>];</div><div class="line">            <span class="keyword">for</span> (j = <span class="number">0</span>; j &lt; <span class="number">26</span>; j++) &#123;</div><div class="line">                flag++;</div><div class="line">                <span class="keyword">if</span> (sRotor[j][<span class="number">1</span>] == m) &#123;</div><div class="line">                    m = sRotor[j][<span class="number">1</span>];</div><div class="line">                    <span class="keyword">break</span>;</div><div class="line">                &#125;</div><div class="line">            &#125;</div><div class="line">            m = mRotor[flag][<span class="number">0</span>];</div><div class="line">            flag = <span class="number">-1</span>;</div><div class="line">            <span class="keyword">for</span> (j = <span class="number">0</span>; j &lt; <span class="number">26</span>; j++) &#123;</div><div class="line">                flag++;</div><div class="line">                <span class="keyword">if</span> (mRotor[j][<span class="number">1</span>] == m) &#123;</div><div class="line">                    m = mRotor[j][<span class="number">1</span>];</div><div class="line">                    <span class="keyword">break</span>;</div><div class="line">                &#125;</div><div class="line">            &#125;</div><div class="line">            m = fRotor[flag][<span class="number">0</span>];</div><div class="line">            flag = <span class="number">-1</span>;</div><div class="line">            <span class="keyword">for</span> (j = <span class="number">0</span>; j &lt; <span class="number">26</span>; j++) &#123;</div><div class="line">                flag++;</div><div class="line">                <span class="keyword">if</span> (fRotor[j][<span class="number">1</span>] == m) &#123;</div><div class="line">                    m = fRotor[j][<span class="number">1</span>];</div><div class="line">                    <span class="keyword">break</span>;</div><div class="line">                &#125;</div><div class="line">            &#125;</div><div class="line">            buffer[i] = flag + <span class="number">49</span> + <span class="string">'0'</span>;     <span class="comment">//密文输出为字母</span></div><div class="line">            flag = <span class="number">-1</span>;     <span class="comment">//flag回到初始值</span></div><div class="line">            arr[<span class="number">0</span>][<span class="number">0</span>] = fRotor[<span class="number">25</span>][<span class="number">0</span>];     <span class="comment">//快轮转动一个位置</span></div><div class="line">            arr[<span class="number">0</span>][<span class="number">1</span>] = fRotor[<span class="number">25</span>][<span class="number">1</span>];</div><div class="line">            <span class="keyword">for</span> (j = <span class="number">25</span>; j &gt; <span class="number">0</span>; j--) &#123;</div><div class="line">                fRotor[j][<span class="number">0</span>] = fRotor[j - <span class="number">1</span>][<span class="number">0</span>];</div><div class="line">                fRotor[j][<span class="number">1</span>] = fRotor[j - <span class="number">1</span>][<span class="number">1</span>];</div><div class="line">            &#125;</div><div class="line">            fRotor[<span class="number">0</span>][<span class="number">0</span>] = arr[<span class="number">0</span>][<span class="number">0</span>];</div><div class="line">            fRotor[<span class="number">0</span>][<span class="number">1</span>] = arr[<span class="number">0</span>][<span class="number">1</span>];</div><div class="line"></div><div class="line">            <span class="keyword">if</span> (num % <span class="number">26</span> == <span class="number">0</span>) &#123;     <span class="comment">//若快轮已转动一圈则中轮转动一个位置</span></div><div class="line">                arr[<span class="number">0</span>][<span class="number">0</span>] = mRotor[<span class="number">25</span>][<span class="number">0</span>];     <span class="comment">//中轮转动一个位置</span></div><div class="line">                arr[<span class="number">0</span>][<span class="number">1</span>] = mRotor[<span class="number">25</span>][<span class="number">1</span>];</div><div class="line">                <span class="keyword">for</span> (j = <span class="number">25</span>; j &gt; <span class="number">0</span>; j--) &#123;</div><div class="line">                    mRotor[j][<span class="number">0</span>] = mRotor[j - <span class="number">1</span>][<span class="number">0</span>];</div><div class="line">                    mRotor[j][<span class="number">1</span>] = mRotor[j - <span class="number">1</span>][<span class="number">1</span>];</div><div class="line">                &#125;</div><div class="line">                mRotor[<span class="number">0</span>][<span class="number">0</span>] = arr[<span class="number">0</span>][<span class="number">0</span>];</div><div class="line">                mRotor[<span class="number">0</span>][<span class="number">1</span>] = arr[<span class="number">0</span>][<span class="number">1</span>];</div><div class="line">            &#125;</div><div class="line"></div><div class="line">            <span class="keyword">if</span> (num % (<span class="number">26</span> * <span class="number">26</span>) == <span class="number">0</span>) &#123;     <span class="comment">//若中轮已转动一圈则慢轮转动一个位置</span></div><div class="line">                arr[<span class="number">0</span>][<span class="number">0</span>] = sRotor[<span class="number">25</span>][<span class="number">0</span>];     <span class="comment">//慢轮转动一个位置</span></div><div class="line">                arr[<span class="number">0</span>][<span class="number">1</span>] = sRotor[<span class="number">25</span>][<span class="number">1</span>];</div><div class="line">                <span class="keyword">for</span> (j = <span class="number">25</span>; j &gt; <span class="number">0</span>; j--) &#123;</div><div class="line">                    sRotor[j][<span class="number">0</span>] = sRotor[j - <span class="number">1</span>][<span class="number">0</span>];</div><div class="line">                    sRotor[j][<span class="number">1</span>] = sRotor[j - <span class="number">1</span>][<span class="number">1</span>];</div><div class="line">                &#125;</div><div class="line">                sRotor[<span class="number">0</span>][<span class="number">0</span>] = arr[<span class="number">0</span>][<span class="number">0</span>];</div><div class="line">                sRotor[<span class="number">0</span>][<span class="number">1</span>] = arr[<span class="number">0</span>][<span class="number">1</span>];</div><div class="line">            &#125;</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    buffer[FileSize] = <span class="string">'\0'</span>;</div><div class="line">&#125;</div><div class="line"><span class="comment">//删除文件里空格标点的函数</span></div><div class="line"><span class="function"><span class="keyword">void</span> <span class="title">FileDelete</span> <span class="params">()</span> </span>&#123;</div><div class="line">    FILE *fp, *fp2;</div><div class="line">    <span class="keyword">int</span> p;</div><div class="line">    <span class="keyword">char</span> filename[<span class="number">20</span>];</div><div class="line">    <span class="keyword">char</span> filename2[<span class="number">20</span>];</div><div class="line">    <span class="built_in">printf</span>(<span class="string">"加密前,文件需要删去空格以及标点,请输入要加密文件路径: \n"</span>);</div><div class="line">    <span class="built_in">scanf</span>(<span class="string">"%s"</span>, filename);</div><div class="line">    <span class="built_in">printf</span>(<span class="string">"\n"</span>);</div><div class="line">    fp = fopen(filename, <span class="string">"r"</span>);</div><div class="line">    <span class="keyword">if</span> (fp == <span class="literal">NULL</span>) &#123;</div><div class="line">        <span class="built_in">printf</span>(<span class="string">"Error!"</span>);</div><div class="line">    &#125;</div><div class="line">    <span class="built_in">printf</span>(<span class="string">"删去空格以及标点后,请输入需加密文件的另存为路径: \n"</span>);</div><div class="line">    <span class="built_in">scanf</span>(<span class="string">"%s"</span>, filename2);</div><div class="line">    <span class="built_in">printf</span>(<span class="string">"\n"</span>);</div><div class="line">    fp2 = fopen(filename2, <span class="string">"w"</span>);</div><div class="line">    <span class="keyword">if</span>((fp = fopen(filename,<span class="string">"r"</span>)) != <span class="literal">NULL</span>) &#123;</div><div class="line">        <span class="keyword">while</span>((p = fgetc(fp)) != EOF ) &#123;</div><div class="line">            <span class="keyword">if</span>(p &gt;= <span class="number">65</span> &amp;&amp; p &lt;= <span class="number">90</span> || p &gt;= <span class="number">97</span> &amp;&amp; p &lt;= <span class="number">122</span>) &#123;</div><div class="line">                fputc(p,fp2);</div><div class="line">            &#125;</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line">    fclose(fp);</div><div class="line">    fclose(fp2);</div><div class="line">&#125;</div><div class="line"></div><div class="line"><span class="comment">//打开源文件</span></div><div class="line"><span class="function"><span class="keyword">int</span> <span class="title">openSrcFile</span> <span class="params">(<span class="keyword">char</span> **buffer)</span> </span>&#123;</div><div class="line">    FILE *MyfileSrc;     <span class="comment">//源文件指针</span></div><div class="line">    <span class="keyword">char</span> filename[<span class="number">20</span>];    <span class="comment">//文件名数组</span></div><div class="line">    <span class="keyword">long</span> <span class="keyword">int</span> FileSize;     <span class="comment">//记录文件的长度</span></div><div class="line">    <span class="keyword">long</span> <span class="keyword">int</span> i,j;</div><div class="line">    <span class="built_in">printf</span>(<span class="string">"请输入要加密的文件路径：\n"</span>);</div><div class="line">    <span class="built_in">scanf</span>(<span class="string">"%s"</span>, filename);</div><div class="line">    <span class="built_in">printf</span>(<span class="string">"\n"</span>);</div><div class="line">    <span class="keyword">if</span> (!(MyfileSrc = fopen(filename,<span class="string">"rb"</span>))) &#123;</div><div class="line">        <span class="built_in">printf</span>(<span class="string">"Error!"</span>);</div><div class="line">    &#125;;</div><div class="line">    fseek(MyfileSrc, <span class="number">0</span>, SEEK_END);     <span class="comment">//判断文件长度</span></div><div class="line">    FileSize = ftell(MyfileSrc);</div><div class="line">    fseek(MyfileSrc, <span class="number">0</span>, SEEK_SET);</div><div class="line">    *buffer = (<span class="keyword">char</span>*)<span class="built_in">malloc</span>(FileSize);     <span class="comment">//像堆区申请FileSize大小内存空间</span></div><div class="line">    fread(*buffer, <span class="number">1</span>, FileSize, MyfileSrc);     <span class="comment">//读入文件</span></div><div class="line">    fclose(MyfileSrc);</div><div class="line">    <span class="keyword">return</span> FileSize;</div><div class="line">&#125;</div><div class="line"></div><div class="line"><span class="comment">//储存加密文件</span></div><div class="line"><span class="function"><span class="keyword">void</span> <span class="title">saveDstFile</span> <span class="params">(<span class="keyword">char</span> *buffer, <span class="keyword">int</span> FileSize)</span> </span>&#123;</div><div class="line">    FILE *MyfileDst;     <span class="comment">//源文件指针</span></div><div class="line">    <span class="keyword">char</span> filename[<span class="number">20</span>];     <span class="comment">//文件名数组</span></div><div class="line">    <span class="built_in">printf</span>(<span class="string">"请输入文件加密后要生成的路径：\n"</span>);</div><div class="line">    <span class="built_in">scanf</span>(<span class="string">"%s"</span>, filename);</div><div class="line">    <span class="built_in">printf</span>(<span class="string">"\n"</span>);</div><div class="line">    <span class="keyword">if</span> (!(MyfileDst = fopen(filename,<span class="string">"wb"</span>))) &#123;</div><div class="line">        <span class="built_in">printf</span>(<span class="string">"Error!"</span>);</div><div class="line">    &#125;</div><div class="line">    <span class="built_in">fprintf</span>(MyfileDst, <span class="string">"%s"</span>, buffer);</div><div class="line">    <span class="built_in">printf</span>(<span class="string">"加密完成，请查看加密生成文件\n"</span>);</div><div class="line">    fclose(MyfileDst);</div><div class="line">    <span class="built_in">free</span>(buffer);     <span class="comment">//释放内存空间</span></div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
+<p><br><br><br><img src="http://ojv7wbfak.bkt.clouddn.com/%E5%9B%BE%E4%BE%8B.png" alt=""><br><em><div align="center">测试图例</div></em><br><br><br>由于写的比较赶，风格和习惯上的不足还望见谅。错误之处敬请斧正。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;博客没有死，只是一直想不到可以写的东西，如果再不更新，生活也许只剩眼前的雾霾了。所以打算写些学习和生活的二三事，从今天开始吧。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://ojv7wbfak.bkt.clouddn.com/QQ%E5%9B%BE%E7%89%8
+    
+    </summary>
+    
+      <category term="Code" scheme="http:/categories/code/"/>
+    
+    
+      <category term="C" scheme="http:/tags/c/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Long Live Twenty!</title>
+    <link href="http:/2017/01/27/20/"/>
+    <id>http:/2017/01/27/20/</id>
+    <published>2017-01-27T07:12:07.000Z</published>
+    <updated>2017-07-13T08:49:34.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://ojv7wbfak.bkt.clouddn.com/QQ%E5%9B%BE%E7%89%8720170127151308.jpg" alt=""><br><br><br>今天是除夕了，又这么巧在今天满了20岁，是不是可以奢侈地许两个愿望呢？<br><br><br>据说在除夕过生日，这是我第二次。第一次的时候，我才一岁，人生刚刚开始。今天，也算又一个开始吧，毫无准备地要开始二字打头的生活，满脑子都是未来十年的幻影，想想竟有点不知所措。<br><br><br>回顾过去，我真觉得十八岁半实在是太棒了。那段时间里做的每一件事情似乎都关乎未来的走向，自己却没有任何来自外界的压力和负担，可以深呼吸、大胆地为自己的将来做决定。也许这就是自己作为法定的成年人体会到的第一次责任，原来长大这么好。可是，岁月它像开了阀的洪水一样，奔腾不息，偶有溅起的水花让你感叹一下蹉跎，却又不得不无畏大浪，顺水而行。曾经期待着长大，渴求独立的思想，盼望自己有一天成为一个标新立异的新青年，然而真正长大了，却无比觊觎一个可以堵住滚滚洪水的坝，让它流缓点儿，再缓点儿。<br><br><br>我总是认为，二十多了，是该陆续兑现一点承诺了。可是，我从小到大的两个纯粹的梦想，目前似乎无一实现，好像有点讽刺。这个寒假，可以说是近期最抑郁的假期了，对着键盘无力地敲打，不知觉就到了深夜，不知觉就这样迎接二十岁。会多想，会绝望。哎，不过也好在，梦想虽有取舍，但没有变过，即使目前压抑悲观，偶尔无力绝望，不过总会“沉舟侧畔千帆过，病树前头万木春”的吧！毕竟，它是这样一个被多少过来人羡慕的黄金时代，是这样生猛又刚硬。<br><br><br>身边的大家也陆续步入桃李、弱冠之年，这才意识到，“从前”，是真的走了。渐渐发现很多事情自己已经没有小时候那种面对的感觉。现在会怕老，看到老人脸上的皱纹会心酸；有时会觉得假期出游也挺无趣的；小时候难得去次上海才吃得到的M记云云现在虽然烂了大街，但一点儿也不好吃了；小时候逢五一、国庆就有喜酒吃，现在越来越少了……原来大家都长大了啊。<br><br><br>未来，势必会遇到越来越多形形色色的人。我是人海中一个小小的分子，愿南方的阴雨，淋不湿我，北方的鸿雁，也能被我看到啼破苍穹。愿日落江河之时，也能缓步当歌，看星辰飘落。在二十几岁的日子里，希望一切都好，我要敢爱，敢拼，敢闯，风中造舟，不再回头。</p>
+<div align="center"><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=32272267&auto=1&height=66"></iframe></div>
+
+
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ojv7wbfak.bkt.clouddn.com/QQ%E5%9B%BE%E7%89%8720170127151308.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;今天是除夕了，又这么巧在今天满了20岁，是不是可以奢侈地许两个愿望呢？
+    
+    </summary>
+    
+      <category term="Daily Life" scheme="http:/categories/daily-life/"/>
+    
+    
+      <category term="daily" scheme="http:/tags/daily/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Serendipity</title>
+    <link href="http:/2017/01/17/serendipity/"/>
+    <id>http:/2017/01/17/serendipity/</id>
+    <published>2017-01-17T06:27:24.000Z</published>
+    <updated>2017-07-13T08:49:22.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>你来了，真是件serendipity。 <br><br><br>寒假回来这几天忙着搭blog，终于差不多成型了。之前在hexo+github和wordpress两者之间纠结了一会，最后还是选择使用前者。虽然两者各有所长，选择哪种方法都会有点小小的欠缺，不过为了借机会使用下github，还是决定搭这个轻量级的blog。<br><br><br><img src="http://ojv7wbfak.bkt.clouddn.com/QQ%E5%9B%BE%E7%89%8720170117150415.jpg" alt=""><br><br><br><br>主题上我不喜欢太复杂的，也不想要太极简的，所以选了很久。记得概率论老师上课说过一次</p>
+<blockquote>
+<p>也许继续下去可以找到更适合你的，但你不可能一直找下去。  </p>
+</blockquote>
+<p>好吧，那就这个主题了。小改了一点，把顶部logo的部分换成了之前<a href="http://weibo.com/u/2865004400" target="_blank">@眼眼</a>帮我画的头像，为了做成png索引，轮廓被我抠得比较粗糙，233。网页端标签页前面的小图标和apple touch icon也改了，正好上学期参加UI比赛，花了一周做了一套国风的UI，就找了一个当时画的月亮来当icon，突然觉得跟主题风格还挺搭的，满页移动的都是星星，就差一个月亮了嘛！( 做的是类似塞班的图标形状，ios里看还挺违和 ) 细节上也是在尽量改成更像自己的一个blog，不过还是觉得布局不是特别满意，评论区暂时没打算开，感觉不是很有必要，再看吧，慢慢改。<br><img src="http://ojv7wbfak.bkt.clouddn.com/QQ%E5%9B%BE%E7%89%8720170117150254.jpg" alt=""><br><br><br><br>最近看了《Serendipity》。它残忍、悲哀，实际上不是一个美好的爱情故事，可它是一个好单词。维基百科上对它是这么解释的</p>
+<blockquote>
+<p>意外发现（Serendipity [ˌserənˈdɪpəti] ）是指某人发现了他原先没有期待发现的事物或现象。英文原词是“Serendipity”，这个英文单词曾在2004年6月被一家英国翻译公司评选为十大最难翻译的单词，不过，这个单词已经被转译成多个语言。单词可以简单的理解为幸福的意外（happy accident）或愉快的惊喜（pleasant surprise）。</p>
+</blockquote>
+<p>其实并不觉得这个解释是最好的，过于平实。而电影翻译来为《缘分天注定》，字幕里解释为“情有独钟”，这些又太优雅。平凡地看它，就是“机缘凑巧”、“巧事”之类的吧。所以我说，你来了，就是serendipity了。<br><br><br><br>印象最深刻的是男主死党为他写的“悼言”，作为全片的精髓，太美不过。</p>
+<blockquote>
+<p>Jonathan Trager, prominent television producer for ESPN, died last night from complications of losing his soul mate and his fiance.<br><br> He was thirty-five years old. Soft-spoken and obsessive, Trager never looked the part of a hopeless romantic. But in the final days of his life, he revealed an unknown side of his psyche. This hidden quasi-Jungian persona surfaced during the Agatha Christie-like pursuit for his long, reputed soul mate; a woman whom he only spent a few precious hours with. Sadly, the protracted search ended late Saturday night in complete and utter failure. Yet even in certain defeat, the courageous Trager secretly clung to the belief that life is not merely a series of meaningless accidents or coincidences. Uh-uh. But rather, it is a tapestry of events that culminate into an exquisite, sublime plan. <br><br>Ask about the loss of his dear friend, Dean Kansky, the Pulitzer Prize-winning author and executive editor of New York Times, described Jonathan as a changed man in the last days of his life. Things were clearer for him, Kansky noted. Ultimately, Jonathan concluded that if we are to live life in harmony with the universe we must all possess a powerful faith, of what the ancients used to call fatum; what we currently refer to as destiny.</p>
+</blockquote>
+<p><img src="http://ojv7wbfak.bkt.clouddn.com/2017-01-17.png" alt=""><br>电影最后以一片星辰到漆黑的夜空结束，好像这就是所谓的destiny。 <br><br><br>就让SERENDIPITY好好地生长下去吧。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;你来了，真是件serendipity。 &lt;br&gt;&lt;br&gt;&lt;br&gt;寒假回来这几天忙着搭blog，终于差不多成型了。之前在hexo+github和wordpress两者之间纠结了一会，最后还是选择使用前者。虽然两者各有所长，选择哪种方法都会有点小小的欠缺，不过为了借机会使用下g
+    
+    </summary>
+    
+      <category term="Daily Life" scheme="http:/categories/daily-life/"/>
+    
+    
+      <category term="daily" scheme="http:/tags/daily/"/>
+    
+  </entry>
+  
+</feed>
