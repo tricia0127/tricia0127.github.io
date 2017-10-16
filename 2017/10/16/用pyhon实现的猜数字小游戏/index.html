@@ -17,7 +17,7 @@
 <!--<![endif]-->
 
 <head>
-  <title>try | SERENDIPITY</title>
+  <title>用pyhon实现的猜数字小游戏 | SERENDIPITY</title>
   <!-- Meta data -->
     <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" >
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
@@ -181,34 +181,34 @@
         <div class="row col-md-offset-2">
             <div class="col-md-8">
     			<span class="post-meta">
-      <time datetime="2017-08-22T09:28:19.000Z" itemprop="datePublished">
-          2017-08-22
+      <time datetime="2017-10-16T12:36:42.000Z" itemprop="datePublished">
+          2017-10-16
       </time>
     
     
     | 
-    <a href='/tags/daily/'>daily</a>
+    <a href='/tags/python/'>Python</a>
     
     
 </span>
-                <h1>try</h1>
+                <h1>用pyhon实现的猜数字小游戏</h1>
             </div>
         </div>
         <div class="col-md-8 col-md-offset-2">
-      		<p>换电脑了，博客迁了过来，mou目前还不支持当前最新版本的os x（摔），于是还没有找到优秀的markdown编辑器，博文待完善。</p>
+      		<p>跟着教程写了一个简单的python程序。<br></p>
+<p>实现的功能是：输入玩家姓名后，给了个1～100的随机数，玩家一步步猜测，程序会记录该用户游戏玩的次数、猜中数字的游戏次数中最少的一次轮数、所有游戏次数的总轮数，然后计算得到猜中数字需要的平均轮数输出。<br></p>
+<p>一个比较简单的练习，不过语法还在慢慢熟练过程中，每行语义还是值得细细思考的。主要运用了列表、字典、文件读取及涉及的部分函数，并配合基本的循环结构写的。<br></p>
+<p>之前自己看教程用pycharm3.6的版本写，教程还是py2的，自己还要一个个琢磨py2和py3的区别，对语法了解阶段有点耗时。毕竟区别不大，打算熟练了之后再去习惯py3，所以这个程序用的是python自带的IDLE写的，mac端不太友好，字体及细，下划线‘_’看不到，备注切换中文输入法还出不来，只能英文（摔。<br></p>
+<p>另，最后暂时选用了有道云笔记来写md，之前一直用我的印象，微博看到干货直接@一下甩上去，后来发现除非霸王硬上弓，我的印象似乎是不能写md了，于是现在的情况是md用有道云写，干货收录在我的印象。<br><br><figure class="highlight perl"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div></pre></td><td class="code"><pre><div class="line"><span class="comment">#!/usr/bin/python</span></div><div class="line"><span class="comment"># -*- coding: UTF-8 -*-</span></div><div class="line"></div><div class="line">from random import randint</div><div class="line"></div><div class="line">name = raw_input(<span class="string">'input your name:'</span>) <span class="comment">#输入玩家姓名</span></div><div class="line">f = <span class="keyword">open</span>(<span class="string">'/Users/zhangchuyue/Desktop/python/猜数字/game.txt'</span>)</div><div class="line">lines = f.readlines() <span class="comment">#读取所有行</span></div><div class="line">f.close()</div><div class="line"></div><div class="line">scores = &#123;&#125; <span class="comment">#用一个空字典纪录成绩</span></div><div class="line"><span class="keyword">for</span> l in lines:</div><div class="line">    <span class="keyword">s</span> = l.<span class="keyword">split</span>() <span class="comment">#把每行数据拆分为列表</span></div><div class="line">    scores[<span class="keyword">s</span>[<span class="number">0</span>]] = <span class="keyword">s</span>[<span class="number">1</span>:] <span class="comment">#s[0]为key，其余为value</span></div><div class="line">score = scores.get(name) <span class="comment">#按key获取响应value</span></div><div class="line"><span class="keyword">if</span> score is None: <span class="comment">#若无该key返回None</span></div><div class="line">    score = [<span class="number">0</span>, <span class="number">0</span>, <span class="number">0</span>]</div><div class="line">    </div><div class="line">game_times = <span class="keyword">int</span>(score[<span class="number">0</span>]) <span class="comment">#score第一个存放游戏次数</span></div><div class="line">min_times = <span class="keyword">int</span>(score[<span class="number">1</span>]) <span class="comment">#第二个存放猜中所花的最小轮数</span></div><div class="line">total_times = <span class="keyword">int</span>(score[<span class="number">2</span>]) <span class="comment">#总轮数</span></div><div class="line"><span class="keyword">if</span> game_times &gt; <span class="number">0</span>: <span class="comment">#0不能为除数，单独判断</span></div><div class="line">    avg_times = float(total_times) / game_times</div><div class="line"><span class="keyword">else</span>:</div><div class="line">    avg_times = <span class="number">0</span></div><div class="line"><span class="keyword">print</span> <span class="string">'you have played %d times, minum %d round, average %d round'</span> %(game_times,min_times,avg_times)</div><div class="line"></div><div class="line">num = randint(<span class="number">1</span>,<span class="number">100</span>) </div><div class="line"><span class="keyword">times</span> = <span class="number">0</span></div><div class="line"><span class="keyword">print</span> <span class="string">'guess what i think?'</span></div><div class="line">bingo = False</div><div class="line"><span class="keyword">while</span> bingo == False:</div><div class="line">    <span class="keyword">times</span> += <span class="number">1</span></div><div class="line">    answer = input()</div><div class="line">    <span class="keyword">if</span> answer &lt; num:</div><div class="line">        <span class="keyword">print</span> <span class="string">'too small'</span></div><div class="line">    elif answer == num:</div><div class="line">        <span class="keyword">print</span> <span class="string">'bingo'</span></div><div class="line">        bingo = True</div><div class="line">    <span class="keyword">else</span>:</div><div class="line">        <span class="keyword">print</span> <span class="string">'too big'</span></div><div class="line">        </div><div class="line"><span class="keyword">if</span> game_times == <span class="number">0</span> <span class="keyword">or</span> <span class="keyword">times</span> &lt; min_times:</div><div class="line">    min_times = <span class="keyword">times</span></div><div class="line">total_times += <span class="keyword">times</span></div><div class="line">game_times += <span class="number">1</span></div><div class="line"></div><div class="line">scores[name] = [str(game_times), str(min_times), str(total_times)] <span class="comment">#更新scores里的成绩，如果直接写入文件，其他玩家的成绩会被覆盖</span></div><div class="line">result = <span class="string">''</span></div><div class="line"><span class="keyword">for</span> n in scores:</div><div class="line">    line = n + <span class="string">' '</span> + <span class="string">' '</span>.join(scores[n])  +<span class="string">'\n'</span> <span class="comment">#用‘ ’连接scores[n]</span></div><div class="line">    result += line</div><div class="line"></div><div class="line">f = <span class="keyword">open</span>(<span class="string">'/Users/zhangchuyue/Desktop/python/猜数字/game.txt'</span>, <span class="string">'w'</span>)</div><div class="line">f.write(result)</div><div class="line">f.close()</div></pre></td></tr></table></figure></p>
 
             <div class="clearfix"></div>
             <hr class="nogutter">
         </div>
         <nav class="pagination" role="pagination">
     
-    <a class="pull-left" href="/2017/10/16/用pyhon实现的猜数字小游戏/" style="float: left;">
-        ← 用pyhon实现的猜数字小游戏
-    </a>
     
-    
-    <a class="pull-right" href="/2017/07/13/科技节手机ui主题设计大赛/">
-        科技节手机UI主题设计大赛 →
+    <a class="pull-right" href="/2017/08/22/try/">
+        try →
     </a>
     
 </nav>
