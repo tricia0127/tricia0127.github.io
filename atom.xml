@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http:/"/>
-  <updated>2017-10-16T13:05:03.000Z</updated>
+  <updated>2017-10-16T13:09:14.000Z</updated>
   <id>http:/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>用pyhon实现的猜数字小游戏</title>
-    <link href="http:/2017/10/16/%E7%94%A8pyhon%E5%AE%9E%E7%8E%B0%E7%9A%84%E7%8C%9C%E6%95%B0%E5%AD%97%E5%B0%8F%E6%B8%B8%E6%88%8F/"/>
-    <id>http:/2017/10/16/用pyhon实现的猜数字小游戏/</id>
+    <title>用python实现的猜数字小游戏</title>
+    <link href="http:/2017/10/16/%E7%94%A8python%E5%AE%9E%E7%8E%B0%E7%9A%84%E7%8C%9C%E6%95%B0%E5%AD%97%E5%B0%8F%E6%B8%B8%E6%88%8F/"/>
+    <id>http:/2017/10/16/用python实现的猜数字小游戏/</id>
     <published>2017-10-16T12:36:42.000Z</published>
-    <updated>2017-10-16T13:05:03.000Z</updated>
+    <updated>2017-10-16T13:09:14.000Z</updated>
     
     <content type="html"><![CDATA[<p>跟着教程写了一个简单的python程序。<br></p>
 <p>实现的功能是：输入玩家姓名后，给了个1～100的随机数，玩家一步步猜测，程序会记录该用户游戏玩的次数、猜中数字的游戏次数中最少的一次轮数、所有游戏次数的总轮数，然后计算得到猜中数字需要的平均轮数输出。<br></p>
