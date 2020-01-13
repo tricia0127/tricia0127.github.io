@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http:/"/>
-  <updated>2020-01-13T13:19:02.226Z</updated>
+  <updated>2020-01-13T13:34:49.346Z</updated>
   <id>http:/</id>
   
   <author>
@@ -20,25 +20,13 @@
     <link href="http:/2020/01/13/c4d%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95%EF%BC%88%E4%B8%80%EF%BC%89/"/>
     <id>http:/2020/01/13/c4d学习记录（一）/</id>
     <published>2020-01-13T05:47:32.000Z</published>
-    <updated>2020-01-13T13:19:02.226Z</updated>
+    <updated>2020-01-13T13:34:49.346Z</updated>
     
     <content type="html"><![CDATA[<p>做的第一个东西是想实现奶酪的效果。主要熟悉了左侧工具栏里的点、边、面模式以及右上角界面中的雕刻变面板里的各种工具。</p>
 <p><br></p>
 <h2 id="建模"><a href="#建模" class="headerlink" title="建模"></a>建模</h2><h3 id="物体基本变形工具"><a href="#物体基本变形工具" class="headerlink" title="物体基本变形工具"></a>物体基本变形工具</h3><p>针对一个物体，首先要<code>转为可编辑对象</code>，然后才能利用<code>点模式</code>、<code>边模式</code>、<code>面模式</code>使用创建工具中的各种方法。</p>
 <p><br></p>
-<center><img src="https://i.bmp.ovh/imgs/2020/01/05dca4c97d62fc17.png" style="zoom:20%;"></center><br><br>👆创建工具中的这些工具还要再多用用，一段时间不玩很快就忘了是干什么的。<br><br>#### 细分<br><br>给对象增加分段。<br><br><br><br><br><center><img src="https://i.bmp.ovh/imgs/2020/01/d0704dae1ac95b53.png" style="zoom:20%;"></center><br><br><br><br>### 雕刻面板<br><br>右上角界面下拉框中进入。雕刻面板中的主要工具为右侧垂直列表中的这些工具，用于在当前物体上做一些凹陷凸起、挤压切割等效果的建立。设置面板中可调节笔刷大小和压力数值，鼠标中键可快捷调节。<br><br>在雕刻面板中点击细分，可以让对象边缘变得平滑。<br><br>下面这个“E”的变形用的就是创建工具中循环/路径切割+挤压做成的立体“E”，然后在雕刻面板中模拟出奶酪凹陷挤压的效果。<br><br><br><br><br><center><img src="https://i.bmp.ovh/imgs/2020/01/6d3e5293628491c7.png" style="zoom:20%;"></center><br><br><br><br>## 渲染<br><br>### 材质<br><br><br><br><br><center><img src="https://i.loli.net/2020/01/13/liDcuAs1F8ShJzj.png" style="zoom:35%;"></center>
-
-<p><br></p>
-<p>材质需要多调整参数使得效果更符合预期。</p>
-<h3 id="灯光"><a href="#灯光" class="headerlink" title="灯光"></a>灯光</h3><p><br></p>
-<center><img src="https://i.loli.net/2020/01/13/Jya15pNrVgPjLdI.png" style="zoom:20%;"></center>
-
-<p><br></p>
-<p>调灯光比较费力，主要是电脑性能跟不上，一调就卡，甚至整个画面变成线型轮廓，🤯。</p>
-<p>一边调节一边渲染，看到效果图有不好的地方立即停止渲染继续调整。需要注意的是如果布景比较暗的话，在布景前物体后加一个灯光提亮。</p>
-<p>最后成果如下：</p>
-<center><img src="https://i.loli.net/2020/01/13/t5aykILbsmZ6TOv.jpg" style="zoom:40%;"></center>
-
+<center><img src="https://i.bmp.ovh/imgs/2020/01/05dca4c97d62fc17.png" style="zoom:20%;"></center><br><br>👆创建工具中的这些工具还要再多用用，一段时间不玩很快就忘了是干什么的。<br><br>面模式全选右键给对象增加分段（细分）。<br><br><br><br><br><center><img src="https://i.bmp.ovh/imgs/2020/01/d0704dae1ac95b53.png" style="zoom:20%;"></center><br><br><br><br>### 雕刻面板<br><br>右上角界面下拉框中进入。雕刻面板中的主要工具为右侧垂直列表中的这些工具，用于在当前物体上做一些凹陷凸起、挤压切割等效果的建立。设置面板中可调节笔刷大小和压力数值，鼠标中键可快捷调节。<br><br>在雕刻面板中点击细分，可以让对象边缘变得平滑。<br><br>下面这个“E”的变形用的就是创建工具中循环/路径切割+挤压做成的立体“E”，然后在雕刻面板中模拟出奶酪凹陷挤压的效果。<br><br><br><br><br><center><img src="https://i.bmp.ovh/imgs/2020/01/6d3e5293628491c7.png" style="zoom:20%;"></center><br><br><br><br>## 渲染<br><br>### 材质<br><br><br><br><center><img src="https://i.loli.net/2020/01/13/liDcuAs1F8ShJzj.png" style="zoom:35%;"></center><br><br><br><br>材质需要多调整参数使得效果更符合预期。<br><br>### 灯光<br><br><br><br><br><center><img src="https://i.loli.net/2020/01/13/Jya15pNrVgPjLdI.png" style="zoom:20%;"></center><br><br><br><br>调灯光比较费力，主要是电脑性能跟不上，一调就卡，甚至整个画面变成线型轮廓，🤯。<br><br>一边调节一边渲染，看到效果图有不好的地方立即停止渲染继续调整。需要注意的是如果布景比较暗的话，在布景前物体后加一个灯光提亮。<br><br>最后成果如下：<br><br><center><img src="https://i.loli.net/2020/01/13/t5aykILbsmZ6TOv.jpg" style="zoom:40%;"></center>
 ]]></content>
     
     <summary type="html">
