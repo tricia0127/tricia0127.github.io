@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http:/"/>
-  <updated>2020-01-13T07:34:16.029Z</updated>
+  <updated>2020-01-13T07:41:18.452Z</updated>
   <id>http:/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http:/2020/01/13/c4d%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95%EF%BC%88%E4%B8%80%EF%BC%89/"/>
     <id>http:/2020/01/13/c4d学习记录（一）/</id>
     <published>2020-01-13T05:47:32.000Z</published>
-    <updated>2020-01-13T07:34:16.029Z</updated>
+    <updated>2020-01-13T07:41:18.452Z</updated>
     
     <content type="html"><![CDATA[<p>做的第一个东西是想实现奶酪的效果。主要熟悉了左侧工具栏里的点、边、面模式以及右上角界面中的雕刻变面板里的各种工具。</p>
 <p><br></p>
@@ -65,9 +65,7 @@
       <category term="Design" scheme="http:/categories/design/"/>
     
     
-      <category term="UE" scheme="http:/tags/ue/"/>
-    
-      <category term="UI" scheme="http:/tags/ui/"/>
+      <category term="C4D" scheme="http:/tags/c4d/"/>
     
   </entry>
   
