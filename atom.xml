@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http:/"/>
-  <updated>2020-01-23T06:30:27.562Z</updated>
+  <updated>2020-01-26T15:24:17.918Z</updated>
   <id>http:/</id>
   
   <author>
@@ -20,17 +20,22 @@
     <link href="http:/2020/01/23/c4d%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95%EF%BC%88%E4%BA%8C%EF%BC%89/"/>
     <id>http:/2020/01/23/c4d学习记录（二）/</id>
     <published>2020-01-23T06:20:21.000Z</published>
-    <updated>2020-01-23T06:30:27.562Z</updated>
+    <updated>2020-01-26T15:24:17.918Z</updated>
     
-    <content type="html"><![CDATA[<p>模仿纪念碑谷风格，这次主要是建模和渲染设置中有些复杂的地方，材质和灯光比较简单。因为是2.5D风格，所以不需要讲究透视，摄像机那边是开超长焦。在全局光照那边的设置使得物体有点迷散发光的效果。</p>
+    <content type="html"><![CDATA[<p>##0122</p>
+<p>模仿纪念碑谷风格，这次主要是建模和渲染设置中有些复杂的地方，材质和灯光比较简单。因为是2.5D风格，所以不需要讲究透视，摄像机那边是开超长焦。在全局光照那边的设置使得物体有点迷散发光的效果。</p>
 <p>先放上最终效果：</p>
-<center><img src="https://i.loli.net/2020/01/23/9Lxpmdo5y4NK1Fj.png" style="zoom:60%;"></center>]]></content>
+<center><img src="https://i.loli.net/2020/01/23/9Lxpmdo5y4NK1Fj.png" style="zoom:60%;"></center>
+
+<h2 id="0126"><a href="#0126" class="headerlink" title="0126"></a>0126</h2><p>bilibili金牌小电视，表情捏起来用了一些比较复杂的参数，先放效果图：</p>
+<center><img src="https://i.loli.net/2020/01/26/APOQgYFusDS6hyM.png" style="zoom:60%;"></center>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;模仿纪念碑谷风格，这次主要是建模和渲染设置中有些复杂的地方，材质和灯光比较简单。因为是2.5D风格，所以不需要讲究透视，摄像机那边是开超长焦。在全局光照那边的设置使得物体有点迷散发光的效果。&lt;/p&gt;
+      &lt;p&gt;##0122&lt;/p&gt;
+&lt;p&gt;模仿纪念碑谷风格，这次主要是建模和渲染设置中有些复杂的地方，材质和灯光比较简单。因为是2.5D风格，所以不需要讲究透视，摄像机那边是开超长焦。在全局光照那边的设置使得物体有点迷散发光的效果。&lt;/p&gt;
 &lt;p&gt;先放上最终效果：&lt;/p&gt;
-&lt;center&gt;&lt;img src=&quot;htt
+&lt;center
     
     </summary>
     
